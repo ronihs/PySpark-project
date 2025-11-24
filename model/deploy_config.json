@@ -1,0 +1,8 @@
+{
+  "note": "Titanic PySpark Model - Rebuild cuma 2 detik!",
+  "rf_params": {
+    "numTrees": 200,
+    "maxDepth": 10,
+    "seed": 42
+  }
+}

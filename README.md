@@ -3,7 +3,6 @@ ETL & Machine Learning Pipeline=
 
 ```markdown
 # PySpark Full ETL + Machine Learning Pipeline – Titanic Survival Prediction  
-**100% Jalan di Windows Lokal (Tanpa Databricks / Cloud)**
 
 ![PySpark](https://img.shields.io/badge/PySpark-3.5.3-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,8 +19,7 @@ ETL & Machine Learning Pipeline=
 
 1. Clone repo
    ```bash
-   git clone https://github.com/username-kamu/nama-repo-kamu.git
-   cd nama-repo-kamu
+   git clone https://github.com/ronihs/PySpark-project.git
    ```
 2. Buka notebook → Run All 
 

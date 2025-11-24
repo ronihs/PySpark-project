@@ -10,12 +10,11 @@ ETL & Machine Learning Pipeline=
 
 ## Apa yang ada di project ini?
 - Full ETL pipeline (CSV → Clean → Enrich → Write Parquet + Partition)
-- 8 fitur cerdas (Title, Deck, FamilySize, IsAlone, dll)
-- Training Random Forest pakai PySpark MLlib (accuracy ~83–85%)
-- Prediksi Jack Dawson & Rose → **SESUAI FILM**  
+- 8 fitur (Title, Deck, FamilySize, IsAlone, dll)
+- Training Random Forest (PySpark MLlib) (accuracy ~83–85%)
+- Prediksi data baru sebagai testing
   Jack → 0.0 (mati)  
   Rose → 1.0 (selamat)
-- 100% Windows-proof (nggak error Hadoop, pickle, python3, dll)
 
 1. Clone repo
    ```bash
